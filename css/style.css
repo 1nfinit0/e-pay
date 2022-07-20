@@ -19,7 +19,7 @@ main {
   display: flex;
   flex-direction: column;
   background: linear-gradient(180deg, rgba(73,18,115,1) 10%, rgba(117,28,133,1) 90%);
-  padding: 10px 20px;
+  padding: 20px 20px;
 }
 .logo {
   width: 100%;
