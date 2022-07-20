@@ -19,11 +19,11 @@ main {
   display: flex;
   flex-direction: column;
   background: linear-gradient(180deg, rgba(73,18,115,1) 10%, rgba(117,28,133,1) 90%);
-  padding: 20px 20px;
+  padding: 20px 10px;
 }
 .logo {
   width: 100%;
-  height: 15%;
+  height: 10%;
   background-color: rgba(240, 248, 255, 0.4);
   display: flex;
   justify-content: center;
@@ -42,7 +42,7 @@ main {
 }
 .voucher {
   width: 100%;
-  height: 70%;
+  height: 90%;
   background-image: url("../asset/voucher.png");
   background-size: contain;
   background-position: center;
@@ -50,11 +50,11 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 20px auto;
+  margin: 10px auto;
 }
 .share {
   width: 100%;
-  height: 15%;
+  height: 10%;
   background-color: rgba(240, 248, 255, 0.4);
   display: flex;
   justify-content: center;
